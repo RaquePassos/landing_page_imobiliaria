@@ -1,4 +1,4 @@
-# Landing Page Bank:
+# Landing Page Imobiliária:
 
 ## 📌Tecnologias utilizadas:
 ### HTML
